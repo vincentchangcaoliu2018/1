@@ -101,7 +101,7 @@ proxy-groups:
       - DIRECT
   - name: ♻️ 延迟最低
     type: url-test
-    url: http://www.kakaogames.com
+    url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 100
     proxies:
