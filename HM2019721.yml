@@ -122,7 +122,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   kakaogames:
     type: http
-    url: "https://hm2019721.ml/clash/proxies?c=US,JP,KR"
+    url: "https://hm2019721.ml/clash/proxies?c=US,KR"
     path: hm2019721.ml/provider-kakao.yaml
     health-check:
       enable: true
